@@ -17,7 +17,7 @@ main {
 }
 .btn-primary {
   background-color: #f0c040;
-  color: black;
+  color: #000000
 }
 .products {
   display: flex;
@@ -56,4 +56,10 @@ main {
 .checkout-steps > div.active {
   border-bottom: 0.2rem solid #f08000;
   color: #f08000;
+}
+.nav-link{
+  color: #f9f6f2;
+}
+.compony{
+  color: #f9f6f2;
 }
